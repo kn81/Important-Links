@@ -1,0 +1,347 @@
+Important Links
+======================
+1 AWS, CLOUD related
+---------------------
+The Most Important AWS Core Services That You NEED To Know About!  https://youtu.be/B08iQQhXG1Y
+	Looking for practical projects to learn AWS? Check out my video with project suggestions: https://youtu.be/06VgLTqNvU8
+
+	📚 MY RECOMMENDED READING LIST FOR SOFTWARE DEVELOPERS📚
+	Clean Code - https://amzn.to/37T7xdP​
+	Clean Architecture - https://amzn.to/3sCEGCe​
+	Head First Design Patterns - https://amzn.to/37WXAMy​    
+	Domain Driver Design - https://amzn.to/3aWSW2W​ 
+	Code Complete - https://amzn.to/3ksQDrB​
+	The Pragmatic Programmer - https://amzn.to/3uH4kaQ​  
+	Algorithms - https://amzn.to/3syvyP5​  
+	Working Effectively with Legacy Code - https://amzn.to/3kvMza7​
+	Refactoring - https://amzn.to/3r6FQ8U
+
+	Introduction to S3 - https://youtu.be/L3dYocCSU-E​
+	Introduction to Lambda - https://youtu.be/iUIWG0h2D84​
+	Introduction to IAM - https://youtu.be/y8cbKJAo3B4​
+	Introduction to Cloudwatch - https://youtu.be/k7wuIrHU4UY​
+	Introduction to SNS - https://youtu.be/bktTomENEX8​
+	SNS vs SQS - https://youtu.be/mXk0MNjlO7A​
+	Introduction to DynamoDB - https://youtu.be/XvD2FrS5yYM​
+	Introduction to Amazon Athena - https://youtu.be/1lzpeVV2hDQ
+
+Introuduction to AWS services--https://youtu.be/Z3SYDTMP3ME
+
+Pentesting AWS
+	1) Pentesting AWS Day 1 - Part 1
+	https://www.youtube.com/watch?v=qSza2ewHBG8&list=PLaF-mVL3srXy4qhzqfPozYzIs4Rq-oNKI&index=1
+	AWS Free Tier Account--- https://aws.amazon.com/free/
+	
+	2) Pentesting AWS Day 1 - Part 2 : Installing Kali Linux
+	https://www.youtube.com/watch?v=bgFoP-rTuAg&list=PLaF-mVL3srXy4qhzqfPozYzIs4Rq-oNKI&index=2
+
+	Kali Linux Download Page: https://www.kali.org/downloads/​
+	VirtualBox Download Page: https://www.virtualbox.org/wiki/Downl...​
+	VMware Workstation Trial: https://www.vmware.com/in/products/wo..
+
+	3) Pentesting AWS Day 2 - Cloud Goat, AWS IAM, Terraform, Profiles
+	https://www.youtube.com/watch?v=LjwDnCEmRzU&list=PLaF-mVL3srXy4qhzqfPozYzIs4Rq-oNKI&index=3
+.	
+	Cloud Goat: https://github.com/RhinoSecurityLabs/...​
+	Terraform Installation: https://askubuntu.com/questions/98335...​
+	AWS CLI : https://docs.aws.amazon.com/cli/lates...
+
+	1. Cloudgoat git: https://github.com/RhinoSecurityLabs/...​
+	2. Scenario page: https://github.com/RhinoSecurityLabs/...​
+	3. AWS Free Tier: https://aws.amazon.com/free/
+
+	4) Pentesting AWS Day 4 - Run GDPR & HIPAA Audits using Prowler
+	https://www.youtube.com/watch?v=dHusij8ROEs&list=PLaF-mVL3srXy4qhzqfPozYzIs4Rq-oNKI&index=5
+	 Prowler Git Repo: https://github.com/toniblyx/prowler​
+	Hipaa: https://www.hhs.gov/hipaa/for-profess...​
+	GDPR: https://gdpr-info.eu/
+
+	5)Pentesting AWS Day 5 - IP Rotate Burpsuit Extension. and AWS API Gateway
+	https://www.youtube.com/watch?v=_YQLao6p9GM&list=PLaF-mVL3srXy4qhzqfPozYzIs4Rq-oNKI&index=6
+	
+	IP Rotate Git Repo: https://github.com/RhinoSecurityLabs/​...
+	https://github.com/portswigger/ip-rotate​
+	Reference article: 
+	https://rhinosecuritylabs.com/aws/byp​...
+	Jython Download: https://www.jython.org/download.html​
+	Boto3 Installation: https://github.com/boto/boto3​ 
+	PortSwigger IP Rotate: https://portswigger.net/bappstore/2eb​...
+
+	6) Pentesting AWS Day 6 - Breaching AWS S3 Storage Bucket
+	https://www.youtube.com/watch?v=2m-83pC4Vuk&list=PLaF-mVL3srXy4qhzqfPozYzIs4Rq-oNKI&index=7
+	
+	1. 169.254.169.254 : https://docs.aws.amazon.com/AWSEC2/la...​
+	2. AWS MFA: https://aws.amazon.com/premiumsupport...
+============================================================
+Ethical Hacking Job Interview --> https://youtu.be/IDpjaS6OYPU
+	Need a Pentest?: https://tcm-sec.com​
+	Learn to Hack: https://academy.tcm-sec.com​
+
+	🔹The Cyber Mentor Merch🔹
+	___________________________________________
+	teespring.com/stores/the-cyber-mentor​
+
+	Hacker Books:
+	---------------
+	Penetration Testing: A Hands-On Introduction to Hacking: https://amzn.to/31GN7iX​
+	The Hacker Playbook 3: https://amzn.to/34XkIY2​
+	Hacking: The Art of Exploitation: https://amzn.to/2VchDyL​
+	The Web Application Hacker's Handbook: https://amzn.to/30Fj21S​
+	Real-World Bug Hunting: A Field Guide to Web Hacking: https://amzn.to/2V9srOe​
+	Social Engineering: The Science of Human Hacking: https://amzn.to/31HAmVx​
+	Linux Basics for Hackers: https://amzn.to/34WvcXP​
+	Python Crash Course, 2nd Edition: https://amzn.to/30gINu0​
+	Violent Python: https://amzn.to/2QoGoJn​
+	Black Hat Python: https://amzn.to/2V9GpQk
+
+	Get my:---25 hour Practical Ethical Hacking Course: https://www.udemy.com/course/practica...​
+	Windows Privilege Escalation for Beginners Course: https://www.udemy.com/course/windows-...
+
+Source code review
+======================
+Vulnerability found in JAVA related
+--------------------------
+Security vulnerabilities in java based applications --- https://youtu.be/2EyfgogwbyI
+Java Deserialization Exploitation With Customized Ysoserial Payloads -- https://rhinosecuritylabs.com/research/java-deserializationusing-ysoserial/
+FINDING VULNERABILITIES IN SOURCE CODE(JAVA) https://hydrasky.com/network-security/finding-vulnerabilities-in-source-code/
+
+What Is Privilege Escalation and Why Is It Important?   https://www.netsparker.com/blog/web-security/privilege-escalation/
+
+OWASP RELATED
+==============
+clickjacking-and-phishing---https://anydifferencebetween.com/difference-between-clickjacking-and-phishing/
+HTTP Request Methods    https://www.w3schools.com/tags/ref_httpmethods.asp
+PortSwigger teams up with HackerOne for AppSec workshop https://portswigger.net/blog/portswigger-teams-up-with-hackerone-for-appsec-workshop-6-april
+API & OWASP TOP 10 DEMO LINK https://application.security/
+OWASP Top 10 Companion Workbook for Beginning Developers---https://docs.google.com/document/u/0/d/1AS4Fm41vp1s2lj8V6mEoSXrQTPAp72p3gC_X1F3ZllY/mobilebasic?s=08
+Best of Web Pentest Tutorials--- https://www.linkedin.com/posts/hackingarticles_best-of-web-pentest-tutorials-comprehensive-activity-6739414723948769280-ezr7
+
+
+NETWORKING RELATED SECURITY
+==============================
+What Is the Most Secure VPN Protocol?  ----https://www.circleid.com/posts/20190222_what_is_the_most_secure_vpn_protocol/
+
+
+BASH SCRIPTING
+================
+Bash Scripting Full Course 3 Hours-----https://www.youtube.com/watch?v=e7BufAVwDiM
+Link to written article on this course:---https://linuxhint.com/3hr_bash_tutorial/
+ramiKahmed/Penetration-Testing-Bash-Scripts-   https://github.com/ramiKahmed/Penetration-Testing-Bash-Scripts- 
+
+LINUX
+=========
+COMMON LINUX COMMANDS EVERY HACKER SHOULD KNOW  https://cybercoastal.com/common-linux-commands-every-hacker-should-know/
+
+API SECURITY
+=============
+Live API Bug Bounty Training - The Hacktivists ---https://www.youtube.com/watch?v=HXci0-NSwOs
+API hacking for the Actually Pretty Inexperienced hacker with Katie Paxton-Fear - OWASP DevSlop-- https://www.youtube.com/watch?v=qqmyAxfGV9c 
+API Scanning with Burp Suite--> https://news.google.com/articles/CBMiOWh0dHBzOi8vcG9ydHN3aWdnZXIubmV0L2Jsb2cvYXBpLXNjYW5uaW5nLXdpdGgtYnVycC1zdWl0ZdIBAA?hl=en-IN&gl=IN&ceid=IN%3Aen
+
+A few people have asked, here's Katie's open-source vulnerable API: https://github.com/InsiderPhD/Generic-University..​ if you're new to laravel
+1. Clone
+2. composer update
+4. Change the .env
+5. php artisan migrate
+6. php artisan db:seed
+
+Your Goals
+Find the emails of the administrator
+Brute force the API to find new endpoints
+Find out what grades everyone got in a class
+Edit someone's grade
+Make an account
+Access the GraphQL API
+Change another account's password
+Login to your account
+Access admin API
+Find out what vulnerabilities the IT admins have ignored
+Make your account an admin
+Access the admin control panel
+Fire a blind XSS in the admin control panel and validate with your new admin account
+Delete everything
+Restore everything
+
+
+INTERVIEW RELATED
+===================
+Web AppSec interview questions every company should ask --https://www.google.com/amp/s/www.synopsys.com/blogs/software-security/web-appsec-interview-questions/amp/
+5 Information Security Interview Questions Designed To Trick You -->https://www.linkedin.com/pulse/5-information-security-interview-questions-designed-trick-buckwalter
+
+HPE FORTIFY
+============
+HPE Fortify - Secure Code Analysis--- https://www.udemy.com/share/101DnUAEAadl5QRn8H/
+Fortify Static Code Analyzer--https://mk4raoz.medium.com/fortify-static-code-analyzer-6a09cee0ec45
+
+SONARQUBE
+-----------
+What is SonarQube? How to configure a maven project for Code Coverage | Tech---> https://youtu.be/BuT1Ji0P9Ug
+
+CHEKMARX
+==========
+Webinar: DevSecOPs with Checkmarx ---https://www.youtube.com/watch?v=IFyS7LFQVqc
+Running a Comprehensive Application Security Program with Checkmarx and ThreadFix --https://www.youtube.com/watch?v=ApJwMa2iCRk
+
+THREAT MODELING
+====================
+Secure Code - Day05 - Presentation02 Threat Modeling Demo---> https://youtu.be/7HUOk8BhYW0
+CAIRIS: Installing and running CAIRIS with Vagrant & VirtualBox --https://www.youtube.com/watch?v=Bb39wgo9BsI&list=PL5d21GCJAC3F7oBfxYlU-v01NstQQIMwP
+
+Top 10 Threat Modeling Tools in 2020
+Cairis. ...
+IriusRisk. ...
+Kenna. ...
+Microsoft Threat Modeling Tool. ...
+OWASP Threat Dragon. ...
+SDElements by Security Compass. ...
+SecuriCAD by Foreseeti. ...
+Threagile.
+
+METASPLOIT
+=============
+Post Exploitation Metasploit Modules (Reference)--> https://www.infosecmatter.com/post-exploitation-metasploit-modules-reference/
+
+XSS CHEATSHEET
+===============
+https://drive.google.com/file/d/1foNrQ2HHXmhfFn4uHQhZ3j0bGWph6R_H/view
+Announcing: Wingman-- https://xsswingman.com/blog/posts/announcing-wingman/ 
+Dalfox – An Automated XSS Finder
+Attribution link: https://latesthackingnews.com/2021/03/08/dalfox-an-automated-xss-finder/---->https://news.google.com/articles/CBMiSGh0dHBzOi8vbGF0ZXN0aGFja2luZ25ld3MuY29tLzIwMjEvMDMvMDgvZGFsZm94LWFuLWF1dG9tYXRlZC14c3MtZmluZGVyL9IBS2h0dHBzOi8vbGF0ZXN0aGFja2luZ25ld3MuY29tL2FtcC8yMDIxLzAzLzA4L2RhbGZveC1hbi1hdXRvbWF0ZWQteHNzLWZpbmRlcg?hl=en-IN&gl=IN&ceid=IN%3Aen
+
+BURPSUITE
+============
+Web application cartography: mapping out Burp Suite’s crawler--> https://portswigger.net/blog/web-application-cartography-mapping-out-burp-suites-crawler
+gnitetechnologies BurpSuite-For-Pentester-- https://github.com/Ignitetechnologies/BurpSuite-For-Pentester
+
+SAST TOOLS
+============
+https://owasp.org/www-community/Source_Code_Analysis_Tools
+Here are some of the best free SAST tools.
+NodeJsScan.
+SonarQube.
+GitGuardian.
+Snyk.
+WhiteSource Bolt for GitHub.
+OWASP ZAP.
+Contrast Security - Community.
+Sqreen.
+
+CxSAST/CHECKMARX User Guide https://checkmarx.atlassian.net/wiki/spaces/KC/pages/28606512/CxSAST+User+Guide
+How To Review Code For Vulnerabilities---https://blog.shiftleft.io/how-to-review-code-for-vulnerabilities-1d017c21a695
+what is SAST--> https://www.perforce.com/blog/kw/what-is-sast
+Sources and Sinks - Code Review Basics--https://www.youtube.com/watch?v=ZaOtY4i5w_U
+How to use Burp Suite for penetration testing-- https://portswigger.net/burp/documentation/desktop/penetration-testing
+Static Application Security Testing--https://www.synopsys.com/glossary/what-is-sast.html
+
+
+JAVASCRIPT FOR HACKERS=
+=========================
+Hacker101 - JavaScript for Hackers (Created by @STÖK​)-- https://youtu.be/FTeE3OrTNoA
+
+Sources and Sinks - Code Review Basics--> https://www.youtube.com/watch?v=ZaOtY4i5w_U
+
+PYTHON
+========
+Fuzzing Python library (beautifulsoup4) using Google Atheris Fuzzer   https://youtu.be/JfFD7-5nnLY
+Receive access to my free training: https://academy.fuzzinglabs.com/fuzzi...
+
+Keyword: Fuzzing, Fuzz Testing, Python, Atheris, libfuzzer
+Link to this video: https://youtu.be/JfFD7-5nnLY
+
+dloss/python-pentest-tools---https://github.com/dloss/python-pentest-tools
+
+-=[ 🔴 Stuff I use ]=-
+
+→ Microphone:* https://geni.us/ntg3b​
+→ Graphics tablet:* https://geni.us/wacom-intuos​
+→ Camera#1 for streaming:* https://geni.us/sony-camera​
+→ Lens for streaming:* https://geni.us/sony-lense​
+→ Connect Camera#1 to PC:* https://geni.us/cam-link​
+→ Keyboard:* https://geni.us/mech-keyboard​
+→ Old Microphone:* https://geni.us/mic-at2020usb​
+
+US Store Front:* https://www.amazon.com/shop/liveoverflow​
+
+-=[ ❤️ Support ]=-
+
+→ per Video: https://www.patreon.com/join/liveover...​
+→ per Month: https://www.youtube.com/channel/UClcE...
+
+COOKIE
+=========
+Cookie Attributes and their Importance--https://www.paladion.net/blogs/cookie-attributes-and-their-importance
+Security Cookies-- https://www.netsparker.com/security-cookies-whitepaper/
+
+TEST CASES FOR LOGIN PAGE---
+==========================
+https://artoftesting.com/login
+https://rakeshhansalia.wordpress.com/2012/05/01/security-testcases-for-login-window/
+
+
+INTERVIEW QUESTIONS
+=====================
+PENETRATION TESTING INTERVIEW QUESTIONS & ANSWERS----https://www.wisdomjobs.com/e-university/penetration-testing-interview-questions.html
+https://interviewquestions.ap6am.com/tag/owasp/
+Top 50 Interview Questions & Answers | Penetration Testing-- https://allabouttesting.org/interview-questions-answers-penetration-testing/
+Top 30 Penetration Tester (Pentester) Interview Questions and Answers- https://resources.infosecinstitute.com/topic/top-30-penetration-tester-pentester-interview-questions-and-answers-for-2019/
+
+
+OSI MODEL
+=========
+https://www.wisdomjobs.com/e-university/osi-model-interview-questions.html
+
+LINUX
+==========
+The Complete Linux for Ethical Hackers Course for 2019---- https://youtu.be/rZsJieGi8os
+
+SpiderLabs/Responder https://github.com/SpiderLabs/Responder
+Inside look at modern web browser (part 1) https://developers.google.com/web/updates/2018/09/inside-browser-part1
+
+Linux for Beginners: A Small Guide (Part 2) -https://www.hackingarticles.in/linux-for-beginners-a-small-guide-part-2/
+===============================
+
+https://academy.tcm-sec.com/
+Red Team Lab Objective:--https://www.pentesteracademy.com/redteamlab?utm_source=twitter&utm_medium=content&utm_campaign=advanced-red-team
+
+POWERSHELL
+============
+PowerShell Commands for Pentesters --- https://www.infosecmatter.com/powershell-commands-for-pentesters/
+Docker for Pentester: Pentesting Framework  https://www.hackingarticles.in/docker-for-pentester-pentesting-framework/
+Chimera is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial antivirus solutions.----> https://github.com/tokyoneon/Chimera
+How to Bypass VirusTotal & AMSI Detection Signatures with Chimera-- > https://null-byte.wonderhowto.com/how-to/hacking-windows-10-bypass-virustotal-amsi-detection-signatures-with-chimera-0333967/
+
+Pentesting for n00bs: Episode 1 - Legacy (hackthebox)
+More episodes:
+Episode 2 - Lame: https://youtu.be/ntBkyid_u8Y​
+Episode 3 - Blue: https://youtu.be/xLI7OialKk4​
+Episode 4 - Devel: https://youtu.be/ODUDau7BPSY​
+Episode 5 - Jerry: https://youtu.be/nF14K2VAVtw​
+Episode 6 - Nibbles: https://youtu.be/8ulnQVFHcOE​
+Episode 7 - Optimum: https://youtu.be/bTxnobhJ_b8​
+Episode 8 - Bashed: https://youtu.be/5406MfOfXBc​
+Episode 9 - Grandpa: https://youtu.be/3aASluoJ-iM​
+Episode 10 - Netmon: https://youtu.be/8k-8aVwS0fk
+
+What is Penetration testing and how to get your first job! Advice from a hiring manager (detailed post)
+https://www.reddit.com/r/Hacking_Tutorials/comments/kgtfwj/what_is_penetration_testing_and_how_to_get_your/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+
+NETBIOS
+============
+https://en.wikipedia.org/wiki/NetBIOS
+
+What is hashcat Hash Cracking Tool? --- https://www.darknet.org.uk/2013/11/hashcat-multi-threaded-password-hash-cracking-tool/
+praetorian-inc/Hob0Ruleshttps://github.com/praetorian-inc/Hob0Rules/blob/master/wordlists/rockyou.txt.gz
+
+ACTIVE DIRECTORY
+----------------
+Best of Active Directory Exploitation--  https://www.linkedin.com/posts/hackingarticles_best-of-active-directory-exploitation-comprehensive-activity-6737237467033833472-X87Q
+Password Dumping Cheatsheet: Windows   --> https://www.hackingarticles.in/password-dumping-cheatsheet-windows/
+
+https://hashcat.net/wiki/doku.php?id=example_hashes
+ntroducing Malvuln.com – the first website ‘exclusively dedicated’ to revealing security vulnerabilities in malware  ----> https://portswigger.net/daily-swig/introducing-malvuln-com-the-first-website-exclusively-dedicated-to-revealing-security-vulnerabilities-in-malware
+
+Example hashes--> https://hashcat.net/wiki/doku.php?id=example_hashes
+OSCP Cheatsheet ---> https://cd6629.gitbook.io/ctfwriteups/oscp-cheatsheet-unfinished
+
+
